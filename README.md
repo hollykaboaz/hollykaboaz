@@ -15,7 +15,6 @@
     <br><br> I am a <b>Full-Stack Software Developer,</b>&nbsp; <b>Girls Who Code Alum</b>&nbsp; and <b> STEM Outreach Enthusiast (Specifically CS 😄)  .</b> 
   <br>
     
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
