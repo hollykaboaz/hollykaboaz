@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="full" height="500px" src="https://camo.githubusercontent.com/57d6b34f9feb89c6b5a38546324bfb6858ca7d05b59ab133ee195afd21177cec/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966">
+  <img width="40%"src="https://github.com/hollykaboaz/hollykaboaz/assets/111665510/47b73da2-3172-403f-9014-f013dac5d712">
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Holly</h1>
