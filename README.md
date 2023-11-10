@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Holly Boaz</b>, a senior majoring in <b>Information technology - Software Development </b> at <a href="https://www.iit.ac.lk/"> <b>Georgia Gwinnett College</b></a>.
+    Hi I'm <b>Holly Boaz</b>, a senior college student majoring in <b>Information technology - Software Development </b> at <a href="https://www.ggc.edu/"> <b>Georgia Gwinnett College</b></a>.g
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Girl Who Code Alum</b>&nbsp; and <b> STEM Outreach Enthusiast (Specifically CS 😄)  .</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
