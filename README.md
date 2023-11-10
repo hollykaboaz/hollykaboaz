@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Holly</h1>
 <p align="center">
-  <a href="https://github.com/hollykaboaz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F732CE&background=F539BB00&center=true&random=false&width=500&lines=Full+Stack+Developer;Software+Development+Undergraduate;Girls+Who+Code+%7C+Technology+Ambassador" alt="Typing SVG" /></a>
+
 
 </p>
 
