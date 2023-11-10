@@ -26,7 +26,7 @@
 - 👯 I am open to and would love to collaborate on Full-stack web projects with other developers.
 - 💡 Contributing to Open Source Projects is a current goal of mine.
 - 🎨 My new recent interest has been UI/UX Design for fun.
-- ⚡ I am ver creative. I love Songwriting and Poetry.. also I'm obssessed with the Sims Video Game!
+- ⚡ Outside of coding, I love songwriting and poetry.. also I'm obssessed with the Sims Video Game!
 <br>
 
 ---
@@ -61,7 +61,7 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="[https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/](https://www.linkedin.com/in/hollyboaz/)">
+  <a href="https://www.linkedin.com/in/hollyboaz">
    <img align="left" alt=" Holly Boaz | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:hollyboaz12@gmail.com">
@@ -71,5 +71,3 @@
     <img align="left" alt="Holly Boaz| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
-  
-<p align="right" > This readme template was created by <a href="https://github.com/Ratheshan03">Ratheshan03</a> Check him out!</p>
