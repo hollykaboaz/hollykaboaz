@@ -11,8 +11,7 @@
 
 <p align="center">
   <em>
-    Hi I'm <b>Holly Boaz</b>, a student majoring in <b>IT Software Development </b> at <a href="https://www.ggc.edu/"> <b>Georgia Gwinnett College</b></a>.
-    <br><br> I am a <b>Full-Stack Software Developer,</b>&nbsp; <b>Girls Who Code Alum</b>&nbsp; and <b> STEM Outreach Enthusiast (Specifically CS 😄)  .</b> 
+    Hi I'm <b>Holly Boaz</b>, I am a <b>Full-Stack Software Developer,</b>&nbsp; <b>Girls Who Code Alum</b>&nbsp; and <b> STEM Outreach Enthusiast (Specifically CS 😄)  .</b> 
   <br>
     
 </p>
